@@ -1,10 +1,24 @@
-# Data analysis
-- Document here the project: toolbox
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# Project description
 
-Please document the project the better you can.
+!!! This package is under construction !!!
+
+- Data Science and Machine Learning `toolbox` package containing useful functions for future DS and ML projects
+- `test` contains Python codes for testing each function (e.g. `tests/test_weather_forecast.py` tests `weatherforecast.py`)
+
+# Next adds to the toolbox
+
+- Baseline functions for data visualization including: 
+    * distribution graphs
+    * boxplots
+    * pairplots
+    * correlation heatmaps
+
+- Baseline pipelines for data preprocessing including:
+    * Handle NaNs, duplicates, and outliers
+    * Data type conversions
+    * Scaling
+
+- More to come...
 
 # Startup the project
 
